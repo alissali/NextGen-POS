@@ -1,2 +1,2 @@
 # NextGen-POS
-By CraiG Larman
+By Craig Larman
